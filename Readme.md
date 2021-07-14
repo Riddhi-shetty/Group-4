@@ -28,7 +28,7 @@ Database:PostgreSQL.
 
 @Manasa2001 Manasanagilla321@gmail.com
 
-->Done some research about the topic and helped @yash100799 and @DeepyanshShah in connecting Frontend and Backend with database
+->Done some research about the topic and helped @yash100799 @yashmpandit and @DeepyanshShah in connecting Frontend and Backend with database
 
 @Hroy08 royhritik2208@gmail.com
 

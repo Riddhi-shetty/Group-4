@@ -36,7 +36,7 @@ Database:PostgreSQL.
 @Manasa2001 Manasanagilla321@gmail.com
 
 * Done some research about the topic
-* Helped @yash100799 and @DeepyanshShah in connecting Frontend and Backend with database
+* Helped @yash100799 and @yashmpandit in connecting Frontend and Backend with database
 
 @Hroy08 royhritik2208@gmail.com
 
@@ -75,7 +75,7 @@ Database:PostgreSQL.
 
 * Done some research for the project
 * Helped @yash100799 in making backend
-* Helped @yash100799 for Connecting it with the database
+* Helped @Manasa2001 for Connecting it with the database
 
 @KrutikaNikalje01 krutikanikalje01@gmail.com
 

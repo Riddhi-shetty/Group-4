@@ -23,10 +23,11 @@ Database:PostgreSQL.
 * Done some research about the topic
 * Helped @Varun1619 in making frontend(dashboard)
 
-@Riddhi-shetty smrvshetty5@gmail.com
+@Riddhi-shetty smvrshetty5@gmail.com
 
 * Done some research about the topic
 * Helped @Varun1619 in making frontend(register,login)
+* Completed the backend part for the user authentication
 
 @Poorvasawant17 poorvasawant2000@gmail.com
 
@@ -62,8 +63,9 @@ Database:PostgreSQL.
 
 @yash100799 sat107kar@gmail.com
 
-* Done some research about the libraries to use for the project 
-* Created backend  
+* Done some research about the project
+* Research about the libraries to use for the project 
+* Helped @Riddhi-shetty to create the backend
 * Connected it to the database
 
 @yashmpandit yashmpandit@gmail.com
